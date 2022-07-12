@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Star-Match-Game/static/css/main.6b9e2fdb.css",
-    "main.js": "/Star-Match-Game/static/js/main.551341b6.js",
-    "static/js/787.5a925261.chunk.js": "/Star-Match-Game/static/js/787.5a925261.chunk.js",
-    "index.html": "/Star-Match-Game/index.html",
-    "main.6b9e2fdb.css.map": "/Star-Match-Game/static/css/main.6b9e2fdb.css.map",
-    "main.551341b6.js.map": "/Star-Match-Game/static/js/main.551341b6.js.map",
-    "787.5a925261.chunk.js.map": "/Star-Match-Game/static/js/787.5a925261.chunk.js.map"
+    "main.css": "/star-match-game/static/css/main.6b9e2fdb.css",
+    "main.js": "/star-match-game/static/js/main.78bf0325.js",
+    "static/js/787.5a925261.chunk.js": "/star-match-game/static/js/787.5a925261.chunk.js",
+    "index.html": "/star-match-game/index.html",
+    "main.6b9e2fdb.css.map": "/star-match-game/static/css/main.6b9e2fdb.css.map",
+    "main.78bf0325.js.map": "/star-match-game/static/js/main.78bf0325.js.map",
+    "787.5a925261.chunk.js.map": "/star-match-game/static/js/787.5a925261.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b9e2fdb.css",
-    "static/js/main.551341b6.js"
+    "static/js/main.78bf0325.js"
   ]
 }
